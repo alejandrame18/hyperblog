@@ -4,3 +4,5 @@ Alejandra tiene 23 años y nació en colombia.
 Hoy hablaremos de la historia de alejandra. 
 
 Aleja está haciendo una gran esfuerzo para que esto fluya 
+
+Hoy hablaremos del estres que le produce que el puto html no funcione
