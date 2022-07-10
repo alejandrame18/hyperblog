@@ -6,3 +6,5 @@ Un nuevo update. Aveces me estreso por personas que nisiquiera pertencen a mi vi
 
 El principal problema, es que me fijo en la vida de las demás personas. 
 Así ellos se fijaran en la mía. No me debería interesar que pasa con ellos 
+
+Vamos a intentar algo con vim, así me estrese un poco 
